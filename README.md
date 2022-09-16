@@ -19,20 +19,6 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 * **Lunes 13 de marzo**: Presentación por estricto orden de lista. Para los alumnos no duales, la presentación se hará de forma conjunta con la aplicación de Ionic (asignatura AD)
 
 ### :iphone: Índice a las aplicaciones
-* Andres Domínguez, Javier - [Dice-Roller](https://github.com/javierandresaluiescampanillas/dice-roller)
-* Buendía López, Jairo - [DragonBallWiki](https://github.com/jairobuendia/DragonBallWiki)
-* De Abrisqueta Rangel, Ander - [Pulserástica](https://github.com/AnderDeAbrisqueta/pulserastica)-[HarenaAngularApp](https://github.com/AnderDeAbrisqueta/HarenaAngularApp)-[Shopping-list-ionic-firebase](https://github.com/AnderDeAbrisqueta/shoppinglist-ionic-firebase)
-* Egea Hermoso, Adrián - [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome_Angular)
-* Estrada Cobo, Jose Manuel - [Task-List](https://github.com/JoseEstradaC/task-list)
-* Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-angular-v2)
-* López Pérez, Cruz - [Clínica Nilo](https://github.com/mcruzlp/clinicaniloangularappMarzoVersion)
-* Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/angular-project)
-* Morales Aragón, Marcos - [MHW-Wiki 2.0](https://github.com/MarcosMoralesAragon/MHW-Wiki/tree/2.0)
-* Moreno Rodríguez, Javier - [Nature](https://github.com/Javiemr/AngularNature)
-* Rodriguez Barbero Verdera, David - [MattersAccounting](https://github.com/Davidrbv/MatterAccounting)
-* Salmerón Robles, Gonzalo José - [RickMortyApi](https://github.com/gonzalosalmeron/rickmortyapi)
-* Sevilla Valderrama, Fernando Iván - [LolApiRes](https://github.com/FESEVA/angular-lolApiRes)
-* Gutiérrez Ramírez, Jesús Gutiérrez - [TODO3D](https://github.com/Jesus-GR/tienda3D)
 
 ## 3<sup>er</sup> TRIMESTRE (RECUPERACIÓN)
 
@@ -42,9 +28,6 @@ Cada alumno debe enlazar el repositorio de su aplicación en el siguiente índic
 
 ### :iphone: Índice a las aplicaciones
 
-* Apellidos, Nombre - [Título]()
-* López Lozano, Santos - [Animeflix](https://github.com/SantosLopezLozano/AnimeflixAngular)
-* Sicilia Pérez, Francisco Javier - [GamesToPlay](https://github.com/FranSiciliaPerez/GamesToPlay/blob/main/README.md#gamestoplay)
 
 ### 🗓️ Plazos de entrega
 
