@@ -1,6 +1,6 @@
 <img width="360px" src="angular-y-primeng.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="400px" src="firebase_v2.png">
 
-# Índice de aplicaciones de Angular - Curso 2022 / 2023
+# Proyecto de Angular - ïndice de aplicaciones - Curso 2022 / 2023
 
 ## 1<sup>er</sup> TRIMESTRE
 
