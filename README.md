@@ -15,8 +15,8 @@ La autenticación de usuarios con Firebase no es obligatoria, se deja como carac
 
 ### 🗓️ Plazos de entrega
 
-* **Jueves 10 de marzo a las 23:59**: Límite para las actualizaciones del repositorio de la aplicación. 
-* **Viernes 11 de marzo**: Presentación por estricto orden de lista. Para los alumnos no duales, la presentación se hará de forma conjunta con la aplicación de Ionic (asignatura AD)
+* **Viernes 10 de marzo a las 23:59**: Límite para las actualizaciones del repositorio de la aplicación. 
+* **Lunes 13 de marzo**: Presentación por estricto orden de lista. Para los alumnos no duales, la presentación se hará de forma conjunta con la aplicación de Ionic (asignatura AD)
 
 ### :iphone: Índice a las aplicaciones
 * Andres Domínguez, Javier - [Dice-Roller](https://github.com/javierandresaluiescampanillas/dice-roller)
@@ -48,8 +48,8 @@ Cada alumno debe enlazar el repositorio de su aplicación en el siguiente índic
 
 ### 🗓️ Plazos de entrega
 
-* **Viernes 1 de abril**: Repositorio de la aplicación creado y enlazado desde el índice. Título y descripción de la aplicación indicando las principales funcionalidades.
-* **Viernes 29 de abril**: Revisión del trabajo realizado. La aplicación debe tener ya buena parte de las funcionalidades implementadas. Se deben mostrar capturas de pantalla en el `README.md` del repositorio.
+* **Lunes 3 de abril**: Repositorio de la aplicación creado y enlazado desde el índice. Título y descripción de la aplicación indicando las principales funcionalidades.
+* **Jueves 30 de abril**: Revisión del trabajo realizado. La aplicación debe tener ya buena parte de las funcionalidades implementadas. Se deben mostrar capturas de pantalla en el `README.md` del repositorio.
 * **Viernes 20 de mayo**: Presentación de la aplicación.
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
